@@ -1,0 +1,7 @@
+{
+  "name": "email-composer-testapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
